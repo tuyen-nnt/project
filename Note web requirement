@@ -1,0 +1,11 @@
+1) Yêu cầu chức năng
+- Có in đậm, nghiêng, ghạch đầu dòng, tô màu chữ, kích cỡ chữ. 
+- Chỉ cần sử dungj 2 font chữ cơ bản là Times New romans hoặc Arial.
+- Có tính năng save/save as có 2 options là lưu thành file word hoặc pdf.
+- Có tính năng tạo note mới.
+- Có thể lấy link để nhiều người cùng chỉnh sửa hoặc chỉ xem.
+
+
+2) Yêu cầu phi chức năng
+- Respond time cho các chức năng tối đa 2 giây.
+- Nền màu trắng.
